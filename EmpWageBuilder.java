@@ -1,5 +1,5 @@
 
-public class EmpWageBuilderUC1 {
+public class EmpWageBuilder {
         public static void main(String[] args) {
                 //Constants
                 int IS_FULL_TIME = 1;
